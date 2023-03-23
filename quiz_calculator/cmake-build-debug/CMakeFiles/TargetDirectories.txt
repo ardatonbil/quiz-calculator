@@ -1,0 +1,3 @@
+C:/Users/ardat/Desktop/quiz_calculator/cmake-build-debug/CMakeFiles/quiz_calculator.dir
+C:/Users/ardat/Desktop/quiz_calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ardat/Desktop/quiz_calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
